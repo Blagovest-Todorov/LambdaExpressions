@@ -19,6 +19,10 @@ namespace _08.LambdaExpressions
             pets.Add("in");
 
             // pets.OrderBy(x => x.Length);
+            // Use the lambda declaration operator => to separate the lambda's parameter 
+            // (input-parameters) => expression
+            // Use the lambda declaration operator =>
+            // (input-parameters) => { <sequence-of-statements> -> Lambda statemnet inside the curly brackes 
 
             // pets.Sort();
             var result = pets
