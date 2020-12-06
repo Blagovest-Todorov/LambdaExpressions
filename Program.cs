@@ -23,7 +23,15 @@ namespace _08.LambdaExpressions
             // (input-parameters) => expression
             // Use the lambda declaration operator =>
             // (input-parameters) => { <sequence-of-statements> -> Lambda statemnet inside the curly brackes 
-
+            // The lambda expression is a shorter way of representing anonymous method using some special syntax. 
+            ///we got the lambda expression: s => s.Age > 12 && s.Age < 20 where : //
+            /// s is a parameter, => is the lambda operator and s.Age > 12 && s.Age < 20 is the body expression:
+            //Lambda Expression with Multiple Parameters-> 
+            //(s, youngAge) => s.Age >= younage
+            // Lambda Expression without Parameter
+            // It is not necessary to have atleast one parameter in a lambda expression. 
+            //The lambda expression can be specify without any parameter also.
+            // () => Console.WriteLine("Parameter less lambda expression")
             // pets.Sort();
             var result = pets
                 .OrderBy(y => y.Length)//short name , namelss function making some validations/
@@ -34,7 +42,7 @@ namespace _08.LambdaExpressions
                 Console.WriteLine(element);
             }
 
-            
+            //Lambda expression can also be assigned to built-in delegates such as Func, Action and Predicate.
         }
 
         class Student 
