@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\bin\Debug\netcoreapp3.1\08.LambdaExpressions.exe
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\bin\Debug\netcoreapp3.1\08.LambdaExpressions.deps.json
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\bin\Debug\netcoreapp3.1\08.LambdaExpressions.runtimeconfig.json
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\bin\Debug\netcoreapp3.1\08.LambdaExpressions.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\bin\Debug\netcoreapp3.1\08.LambdaExpressions.dll
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\bin\Debug\netcoreapp3.1\08.LambdaExpressions.pdb
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\obj\Debug\netcoreapp3.1\08.LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\obj\Debug\netcoreapp3.1\08.LambdaExpressions.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\obj\Debug\netcoreapp3.1\08.LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\obj\Debug\netcoreapp3.1\08.LambdaExpressions.dll
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\obj\Debug\netcoreapp3.1\08.LambdaExpressions.pdb
+C:\Users\Bla\source\repos\01.DataStructures\08.LambdaExpressions\obj\Debug\netcoreapp3.1\08.LambdaExpressions.genruntimeconfig.cache
